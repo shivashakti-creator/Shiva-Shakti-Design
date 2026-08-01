@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:geo="http://www.google.com/geo/schemas/sitemap/1.0">
+  <url>
+    <loc>https://shivashaktidesign.com.np/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Services Images -->
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dhidjo2r4/image/upload/v1781670419/Black_Logo_ezzz4v.png</image:loc>
+      <image:title>Shiva Shakti Design and Printing House Logo</image:title>
+      <image:caption>Official logo of Shiva Shakti Design and Printing House in Malekhu, Dhading, Nepal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/service_flex_print_1781609757639.jpg</image:loc>
+      <image:title>1440 DPI HD Star Flex Printing Banner Nepal</image:title>
+      <image:caption>Heavy outdoor flex printing with UV resistant inks in Malekhu, Dhading</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/service_sticker_roll_1781609735289.jpg</image:loc>
+      <image:title>Glossy Vinyl Adhesive Sticker Printing Nepal</image:title>
+      <image:caption>Waterproof glossy vinyl stickers for shop branding and packaging in Nepal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/skycut_c24_plotter_cutter_1781614138016.jpg</image:loc>
+      <image:title>Skycut C24 Precision Plotter Cutting Nepal</image:title>
+      <image:caption>Automated contour sticker cutting machine in Dhading</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/graphic_design_studio_1781602219220.jpg</image:loc>
+      <image:title>Graphic Design Studio Malekhu Dhading</image:title>
+      <image:caption>Professional corporate graphic design and vector banner layouts</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/service_heat_press_1781609790522.jpg</image:loc>
+      <image:title>Sublimation Heat Press T-Shirt & Mug Printing</image:title>
+      <image:caption>Custom apparel sublimation printing for sports jerseys and corporate mugs in Nepal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/service_student_id_1781609804822.jpg</image:loc>
+      <image:title>PVC Security Student and Staff ID Card Printing</image:title>
+      <image:caption>Rigid thermal transfer ID card printing with lanyards in Dhading</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/certificate_print_1781667589337.jpg</image:loc>
+      <image:title>Academic and Corporate Certificate Printing Nepal</image:title>
+      <image:caption>300 GSM textured cardstock certificate printing in Malekhu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/medal_and_trophy_1781668999395.jpg</image:loc>
+      <image:title>Laser Engraved Gold Medals and Crystal Glass Trophies</image:title>
+      <image:caption>Custom corporate achievement awards and medals in Nepal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/photo_prints_1781669014195.jpg</image:loc>
+      <image:title>HD Photographic Studio Printing Nepal</image:title>
+      <image:caption>Vibrant HD photo printing across standard 4R, A4, A3, 12x18 sizes</image:caption>
+    </image:image>
+
+    <!-- Portfolio Images -->
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/work_road_billboard_1781609830152.jpg</image:loc>
+      <image:title>Outdoor Highway Billboard Star Flex Banner</image:title>
+      <image:caption>Multi-layered road billboard flex banner installed along highway in Dhading</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/work_shiva_shakti_mug_1781609844050.jpg</image:loc>
+      <image:title>Custom Sublimation Ceramic Mug Shiva Shakti Printing</image:title>
+      <image:caption>Glossy porcelain mug with scratch-proof blue and gold Shiva Shakti logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/work_business_cards_1781609856902.jpg</image:loc>
+      <image:title>350GSM Ivory Business Visiting Cards Nepal</image:title>
+      <image:caption>Stacked spot UV business card printing in Malekhu, Dhading</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/work_rollup_banner_1781609891696.jpg</image:loc>
+      <image:title>Aluminum Roll Up Standee Display Banner</image:title>
+      <image:caption>Exhibition pull-up display banner inside lightweight scroll base</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/work_forex_sticker_1781609909019.jpg</image:loc>
+      <image:title>Forex Board Vinyl Sticker Printing Nepal</image:title>
+      <image:caption>Adhesive vinyl mounted on sturdy white forex plate in Dhading</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/work_student_ids_1781609871654.jpg</image:loc>
+      <image:title>School Student and Staff Identity Cards Stack</image:title>
+      <image:caption>Thermal PVC ID cards with custom photo lanyards</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/work_eco_bag_1781609923137.jpg</image:loc>
+      <image:title>Kraft Paper Carrier Bags Gold Embossed</image:title>
+      <image:caption>Custom printed kraft paper shopping bags in Nepal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/hotel_menu_1781669029377.jpg</image:loc>
+      <image:title>Luxury Hotel Restaurant Food Menu Design and Print</image:title>
+      <image:caption>Leather covered restaurant menu book printing in Nepal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://shivashaktidesign.com.np/src/assets/images/car_stickers_1781669049497.jpg</image:loc>
+      <image:title>Vehicle Vinyl Sticker & Bike Branding Nepal</image:title>
+      <image:caption>Waterproof vinyl vehicle stickers for car and bike graphics</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://shivashaktidesign.com.np/card</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
